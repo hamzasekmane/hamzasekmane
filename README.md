@@ -1,76 +1,51 @@
-# 👋 Hi, I'm Hamza Sekmane
+👋 أهلا، أنا حمزة سقمّان
 
-🚀 **Full-Stack JavaScript Developer | SaaS Builder**
-📍 Based in Algeria 🇩🇿
+🚀 مطور Full-Stack جافاسكريبت | منشئ SaaS
+📍 مقرّي فالجزائر 🇩🇿
 
----
+💡 علىّ روحي
 
-## 💡 About Me
+أنا مطوّر شغوف، نحب نطور منصات SaaS حديثة وتطبيقات ويب قابلة للتوسع.
 
-I'm a passionate developer focused on building **modern SaaS platforms** and scalable web applications.
+نختصّ في بناء أنظمة أعمال حقيقية بهيكلية نظيفة، خصائص في الوقت الحقيقي وتجربة مستخدم ممتازة.
 
-I specialize in creating **real-world business systems** with clean architecture, real-time features, and great user experience.
+🔨 مؤخراً، طوّرت نظام ERP كامل كاين فالويب لإدارة العمليات التجارية.
 
-🔨 Recently, I built a complete SaaS ERP system used for managing business operations.
+🚀 مشروع مميز
+🧾 Velora ERP — منصة SaaS متعددة المستأجرين
 
----
+منصة ERP حديثة مصممة للشركات الصغيرة باش تدير عملياتها بكفاءة.
 
-## 🚀 Featured Project
-
-### 🧾 Velora ERP — Multi-Tenant SaaS Platform
-
-> A modern ERP platform designed for small businesses to manage their operations efficiently.
-
-🌐 **Live Demo:**
+🌐 تجربة مباشرة:
 👉 https://velora-erp.vercel.app/
 
-⚙️ **API:**
+⚙️ API:
 👉 https://velora-erp-production.up.railway.app/api
 
----
+✨ المزايا
+🧾 إدارة الفواتير (إنشاء، إرسال، تتبع)
+👥 إدارة العملاء
+💳 نظام الدفع
+📊 لوحة تحكم و تحليلات
+🔔 إشعارات في الوقت الحقيقي (Socket.IO)
+🏢 هيكلية متعددة المستأجرين (SaaS)
+📄 إنشاء ملفات PDF
+🔐 المصادقة والأمان
+🧱 التكنولوجيات اللي نستعملها
+الواجهة الأمامية (Frontend)
+Next.js
+React
+TailwindCSS
+الواجهة الخلفية (Backend)
+Node.js
+Express.js
+MongoDB
+Socket.IO
+📈 التركيز الحالي
+بناء منصات SaaS قابلة للتوسع
+تحسين هيكلية الـ backend
+أنظمة الوقت الحقيقي والأداء
+🌍 خلينا نتواصلو
+GitHub: https://github.com/hamzasekmane
 
-## ✨ Features
-
-* 🧾 Invoice Management (create, send, track)
-* 👥 Client Management
-* 💳 Payment System
-* 📊 Dashboard & Analytics
-* 🔔 Real-time Notifications (Socket.IO)
-* 🏢 Multi-tenant Architecture (SaaS)
-* 📄 PDF Generation
-* 🔐 Authentication & Security
-
----
-
-## 🧱 Tech Stack
-
-### Frontend
-
-* Next.js
-* React
-* TailwindCSS
-
-### Backend
-
-* Node.js
-* Express.js
-* MongoDB
-* Socket.IO
-
----
-
-## 📈 Current Focus
-
-* Building scalable SaaS platforms
-* Improving backend architecture
-* Real-time systems & performance
-
----
-
-## 🌍 Let's Connect
-
-* GitHub: https://github.com/hamzasekmane
-
----
-
-⭐ *Open to freelance work and collaboration on SaaS projects*
+⭐ مفتوح للعمل الحر والتعاون في مشاريع SaaS
