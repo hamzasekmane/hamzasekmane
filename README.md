@@ -1,79 +1,76 @@
- Hi, I'm Hamza Sekmane 
+# 👋 Hi, I'm Hamza Sekmane
 
-Full-Stack JavaScript Developer from Algeria 🇩🇿
+🚀 **Full-Stack JavaScript Developer | SaaS Builder**
+📍 Based in Algeria 🇩🇿
 
-I build modern web applications and SaaS platforms using **React, Next.js, Node.js, and MongoDB**.
+---
 
- About Me
+## 💡 About Me
 
-I'm a passionate developer focused on building **scalable web applications and business systems**.
+I'm a passionate developer focused on building **modern SaaS platforms** and scalable web applications.
 
-Recently I built **Velora ERP**, a full-stack SaaS platform designed for small businesses to manage invoices, clients, products, and analytics.
+I specialize in creating **real-world business systems** with clean architecture, real-time features, and great user experience.
 
-I enjoy solving complex engineering problems and designing systems that are clean, scalable, and user-friendly.
+🔨 Recently, I built a complete SaaS ERP system used for managing business operations.
 
+---
 
+## 🚀 Featured Project
 
-Tech Stack
+### 🧾 Velora ERP — Multi-Tenant SaaS Platform
 
-Frontend
+> A modern ERP platform designed for small businesses to manage their operations efficiently.
 
-* React
+🌐 **Live Demo:**
+👉 https://velora-erp.vercel.app/
+
+⚙️ **API:**
+👉 https://velora-erp-production.up.railway.app/api
+
+---
+
+## ✨ Features
+
+* 🧾 Invoice Management (create, send, track)
+* 👥 Client Management
+* 💳 Payment System
+* 📊 Dashboard & Analytics
+* 🔔 Real-time Notifications (Socket.IO)
+* 🏢 Multi-tenant Architecture (SaaS)
+* 📄 PDF Generation
+* 🔐 Authentication & Security
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+
 * Next.js
-* JavaScript (ES6+)
+* React
 * TailwindCSS
-* Responsive UI/UX
 
-Backend
+### Backend
 
 * Node.js
 * Express.js
-* REST APIs
-* Authentication systems
-
-Database
-
 * MongoDB
-* SQL
+* Socket.IO
 
+---
 
-
-* Git / GitHub
-* Docker
-* VS Code
-
-
-
-Featured Project
-
-Velora ERP – Multi-Tenant SaaS ERP
-
-A complete ERP platform designed for small businesses.
-
-Features
-
-* Multi-tenant architecture (multiple companies)
-* Client management
-* Product & inventory management
-* Invoice system with PDF generation
-* Dashboard analytics
-* Team & user management
-* Subscription and SaaS plans
-* REST API backend
-
-Tech Stack
-
-Next.js , React , Node.js , Express , MongoDB , TailwindCSS
-
-
-
-📈 Current Focus
+## 📈 Current Focus
 
 * Building scalable SaaS platforms
-* Improving system architecture
-* Learning advanced backend engineering
+* Improving backend architecture
+* Real-time systems & performance
 
+---
 
-Let's Connect
+## 🌍 Let's Connect
 
-GitHub: https://github.com/hamzasekmane
+* GitHub: https://github.com/hamzasekmane
+
+---
+
+⭐ *Open to freelance work and collaboration on SaaS projects*
