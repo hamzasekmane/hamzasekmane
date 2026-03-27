@@ -7,7 +7,7 @@
 🧾 Velora ERP — منصة SaaS متعددة العملاء
 
 منصة ERP حديثة مخصّصة للشركات الصغيرة لإدارة العمليات تاعها بكفاءة.
-🌐 تجربة مباشرة: 👉 https://velora-erp.vercel.app/
+ تجربة مباشرة: 👉 https://velora-erp.vercel.app/
 
 ⚙️ API: 👉 https://velora-erp-production.up.railway.app/api
 
