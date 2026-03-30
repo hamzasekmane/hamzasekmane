@@ -1,40 +1,34 @@
-👋السلام عليكم ، أنا حمزة سكمان  مطور Full-Stack
 
-أنا مطور شغوف نحب نبني منصات SaaS حديثة وتطبيقات ويب قابلة للتوسع. نختصّ في إنشاء أنظمة أعمال واقعية بهيكلية نظيفة، ميزات في الوقت الحقيقي وتجربة مستخدم ممتازة.
-🔨 مؤخرا، بنيت نظام ERP كامل كـ SaaS يُستعمل لإدارة العمليات التجارية.
+Bonjour, je m’appelle Hamza Sekmane, développeur Full-Stack passionné par la création de plateformes SaaS modernes et d’applications web évolutives.
+Je me spécialise dans la construction de systèmes métier réalistes avec une architecture propre, des fonctionnalités en temps réel et une expérience utilisateur optimale.
 
-🚀 المشروع المميز
-🧾 Velora ERP — منصة SaaS متعددة العملاء
+[#] Projet phare
+[#]  Velora ERP — Plateforme SaaS multi-entreprises
 
-منصة ERP حديثة مخصّصة للشركات الصغيرة لإدارة العمليات تاعها بكفاءة.
- تجربة مباشرة: 👉 https://velora-erp.vercel.app/
+Velora ERP est une plateforme SaaS moderne conçue pour les petites entreprises afin de gérer efficacement leurs opérations.
 
-⚙️ API: 👉 https://velora-erp-production.up.railway.app/api
+Démo en direct : velora-erp.vercel.app
+API : velora-erp-production.up.railway.app/api
+[#]  Fonctionnalités
+Gestion des factures (création, envoi, suivi)
+Gestion des clients
+Système de paiement intégré
+Tableau de bord et analyses de données
+Notifications en temps réel (Socket.IO)
+Architecture multi-entreprises (SaaS)
+Génération de fichiers PDF
+Authentification et sécurité
+[#]  Tech Stack
 
-✨ الميزات
-🧾 إدارة الفواتير (إنشاء، إرسال، متابعة)
-👥 إدارة العملاء
-💳 نظام الدفع
-📊 لوحة التحكم وتحليلات البيانات
-🔔 إشعارات في الوقت الحقيقي (Socket.IO)
-🏢 هيكلية متعددة العملاء (SaaS)
-📄 إنشاء ملفات PDF
-🔐 التوثيق والأمان
-🧱 تقنيات الاستعمال
-الواجهة الأمامية (Frontend)
-Next.js
-React
-TailwindCSS
-الخلفية (Backend)
-Node.js
-Express.js
-MongoDB
-Socket.IO
-📈 التركيز الحالي
-بناء منصات SaaS قابلة للتوسع
-تحسين هيكلية الخلفية
-أنظمة في الوقت الحقيقي وتحسين الأداء
-🌍 تواصل معي
-GitHub: https://github.com/hamzasekmane
+Frontend : Next.js, React, TailwindCSS
+Backend : Node.js, Express.js, MongoDB, Socket.IO
 
-⭐ مفتوح للعمل الحر والتعاون في مشاريع SaaS
+[#]  Objectifs actuels
+Construire des plateformes SaaS évolutives
+Optimiser l’architecture backend
+Implémenter des systèmes en temps réel et améliorer les performances
+[#]  Contact
+
+GitHub : github.com/hamzasekmane
+
+Disponible pour freelance et collaborations SaaS DZ
