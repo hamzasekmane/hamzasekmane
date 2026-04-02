@@ -27,8 +27,9 @@ Backend : Node.js, Express.js, MongoDB, Socket.IO
 Construire des plateformes SaaS évolutives
 Optimiser l’architecture backend
 Implémenter des systèmes en temps réel et améliorer les performances
-[#]  Contact
-
+[#] Contact Phone: 0550674658
+[#] Contact Email:hamza02sekmane@gmail.com
+[#] Contact linkedin: linkedin.com/in/sekmane-ai-20aab1153
 GitHub : github.com/hamzasekmane
 
 Disponible pour freelance et collaborations SaaS DZ
