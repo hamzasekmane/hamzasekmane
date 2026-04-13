@@ -3,12 +3,11 @@ Bonjour, je m’appelle Hamza Sekmane, développeur Full-Stack passionné par la
 Je me spécialise dans la construction de systèmes métier réalistes avec une architecture propre, des fonctionnalités en temps réel et une expérience utilisateur optimale.
 
 [#] Projet phare
-[#]  Velora ERP — Plateforme SaaS multi-entreprises
+[#]  Valora ERP — Plateforme SaaS multi-entreprises
 
 Velora ERP est une plateforme SaaS moderne conçue pour les petites entreprises afin de gérer efficacement leurs opérations.
 
-Démo en direct : velora-erp.vercel.app
-API : velora-erp-production.up.railway.app/api
+Démo en direct : https://www.valoraerpy.com
 [#]  Fonctionnalités
 Gestion des factures (création, envoi, suivi)
 Gestion des clients
